@@ -1,5 +1,5 @@
 #!/bin/bash
-declare -a pseud=("hgh")
+declare -a pseud=("mt_fhi" "hgh")
 declare -a xc=("pbe" "revpbe" "vdw-df" "vdw-dfrevpbe")
 # get length of an array
 pseudlength=${#pseud[@]}
